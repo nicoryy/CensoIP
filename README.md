@@ -114,9 +114,9 @@ CensoIP Mobile (Field Collection)
 ### Screenshots
 
 <p align="center">
-  <img src="dashboard.jpeg" alt="dashboard"/>
-  <img src="edit_page.jpeg" alt="edit_page"/>
-  <img src="main_window.jpeg" alt="PyQt6"/>
+  <img src="public/dashboard.jpeg" alt="dashboard"/>
+  <img src="public/edit_page.jpeg" alt="edit_page"/>
+  <img src="public/main_window.jpeg" alt="PyQt6"/>
 </p>
 
 ---
@@ -224,9 +224,9 @@ CensoIP Mobile (Coleta em Campo)
 ### Capturas de Tela
 
 <p align="center">
-  <img src="dashboard.jpeg" alt="dashboard"/>
-  <img src="edit_page.jpeg" alt="edit_page"/>
-  <img src="main_window.jpeg" alt="PyQt6"/>
+  <img src="public/dashboard.jpeg" alt="dashboard"/>
+  <img src="public/edit_page.jpeg" alt="edit_page"/>
+  <img src="public/main_window.jpeg" alt="PyQt6"/>
 </p>
 
 ---
