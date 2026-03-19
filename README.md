@@ -1,7 +1,7 @@
 # censo_ip
 CensoIP Desktop is a professional-grade management and audit platform for **Public Lighting (IP)** inventories. Designed for municipalities, concessionaires, and engineering firms, it replaces error-prone manual Excel/VBA workflows with a robust, cloud-connected desktop application.
 <p align="center">
-  <img src="assets/logo.png" alt="CensoIP Logo" width="180"/>
+  <img src="AuditIP.ico" alt="CensoIP Logo" width="180"/>
 </p>
 
 <h1 align="center">CensoIP Desktop</h1>
@@ -113,7 +113,11 @@ CensoIP Mobile (Field Collection)
 
 ### Screenshots
 
-> Coming soon.
+<p align="center">
+  <img src="dashboard.jpeg" alt="dashboard"/>
+  <img src="edit_page.jpeg" alt="edit_page"/>
+  <img src="main_window.jpeg" alt="PyQt6"/>
+</p>
 
 ---
 
@@ -219,7 +223,11 @@ CensoIP Mobile (Coleta em Campo)
 
 ### Capturas de Tela
 
-> Em breve.
+<p align="center">
+  <img src="dashboard.jpeg" alt="dashboard"/>
+  <img src="edit_page.jpeg" alt="edit_page"/>
+  <img src="main_window.jpeg" alt="PyQt6"/>
+</p>
 
 ---
 
